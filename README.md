@@ -1,1 +1,2 @@
 # alx-graphql-0x01
+This is a project for the ALX School's GraphQL course. The project is a simple GraphQL server that serves a list of users and their posts. The server is built using Node.js and Express.js. The database is a simple in-memory database. The server is tested using Jest. The client is built using React.js. The client is tested using Jest and React Testing Library.
